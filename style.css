@@ -1,0 +1,36 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel{
+    border:2px solid blue;
+    padding: 5px;
+}
+.travel img{
+    width: 100%
+}
+.Mov-di{
+    font-size: 25px;
+    width:100%;
+    border-radius: 25px;
+    padding: 20px 20px;
+}
+.Mov-di i{
+    float: right;
+}
+#Av span{
+    color: yellow;
+}
